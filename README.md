@@ -1,4 +1,5 @@
 #O que faz essa aplicação?
+
 Imagina que você está se sentindo mal e quer saber mais sobre seus sintomas. Essa aplicação é como um médico virtual, mas sem a receita! Você digita seus sintomas, e ela te mostra uma lista de possíveis doenças ou condições relacionadas. É como ter um Google Saúde personalizado, só que mais simples e direto.
 
 #Como funciona a mágica?
