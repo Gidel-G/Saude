@@ -4,16 +4,17 @@ function pesquisar() {
 
     let campoPesquisa = document.getElementById("campo-pesquisa").value
 
-    // se campoPesquisa for uma string sem nada
 
-    if (!campoPesquisa) {
-        section.innerHTML = "<p>Nada foi encontrado. Você precisa digitar um sintoma!</p>";
+
+    // se campoPesquisa for uma string sem nada, , === estritamente igual
+    if (campoPesquisa.trim() === ""){ 
+        section.innerHTML = "<p>Nada foi encontrado. Você precisa digitar um sintoma!</p>"
         return;
     }
 
     campoPesquisa = campoPesquisa.toLowerCase()
 
-
+    
     // Inicializa uma string vazia para armazenar o HTML dos resultados
     let resultados ="";
     let titulo ="";
