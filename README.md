@@ -1,5 +1,5 @@
 
-                                                      PROJETO DESENVOLVIDO ATRAVÉS DA IMERSÃO DEV COM GOOGLE GEMINI.
+                                            PROJETO DESENVOLVIDO ATRAVÉS DA IMERSÃO DEV COM GOOGLE GEMINI.
 
 
 
@@ -9,7 +9,7 @@ Imagina que você está se sentindo mal e quer saber mais sobre seus sintomas. E
 
 #Como funciona a mágica?
 1. Você digita: Na barra de pesquisa, você coloca os seus sintomas. Por exemplo: "dor de cabeça" ou "febre alta".
-2. A aplicação busca: Ela vasculha um banco de dados gigante (que está no arquivo dados.js) e procura por todas as doenças que possuem esses sintomas.
+2. A aplicação busca: Ela vasculha um banco de dados "gigante" (que está no arquivo dados.js) e procura por todas as doenças que possuem esses sintomas.
 3. A aplicação te mostra: Se encontrar alguma coisa, ela te mostra uma lista com o nome da doença, uma breve descrição e um link para você pesquisar mais a fundo. Se não encontrar nada, ela te indica procurar no Google.
 
 #Tecnologias usadas:
